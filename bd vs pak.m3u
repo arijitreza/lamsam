@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1  PTV sports
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/NJi0fG5DAvuY1axzCdFXRoaxoysMomt83on2TAshzXE7i2uRwmL_oKcF4tlcaqY1vpdbJ2-B=s900-c-k-c0x00ffffff-no-rj", PTV sports
 http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/16060.m3u8
-#EXTINF:-1  PTV sports
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/NJi0fG5DAvuY1axzCdFXRoaxoysMomt83on2TAshzXE7i2uRwmL_oKcF4tlcaqY1vpdbJ2-B=s900-c-k-c0x00ffffff-no-rj", PTV sports
 http://watchindia.net:8880/live/vvv/vvv/2325.m3u8
-#EXTINF:-1  Ten sports
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e6/b1/eb/e6b1ebff4d8224459772bdb8380a1397.jpg", Ten sports
 http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/136667.m3u8
-#EXTINF:-1  Willow HD
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg", Willow HD
 http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/40967.m3u8
-#EXTINF:-1 T sports
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9vbi6cjbWU6snGjDJGPE7Y5IsZbUBeer2M3Mzf=s900-c-k-c0x00ffffff-no-rj", T sports
 http://vdn.jgo.tv:1932/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1  Toffee TV
+#EXTINF:-1 tvg-logo="", Toffee TV
 https://mprod-cdn.toffeelive.com/live-event-1/master_1500.m3u8
-#EXTINF:-1 GEO Super
+#EXTINF:-1 tvg-logo="", GEO Super
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/16088.m3u8
